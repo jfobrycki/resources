@@ -8,7 +8,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Colors](#colors)
 - [Typography / Fonts](#typography)
 - [Software](#software)
-- [Data](#data)
+- [Data Sources](#data-sources)
+- [Data Manipulation](#data-manipulation)
 - [Icons](#icons)
 - [Textures / Patterns](#textures--patterns)
 - [Images](#images)
@@ -17,6 +18,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Tutorials / Guides / Forums](#tutorials--guides--forums)
 - [Blogs](#blogs)
 - [Conversion tools](#conversion-tools)
+- [Hosting](#hosting)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -92,7 +94,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
 - [Pyramid Shader](http://www.terraincartography.com/PyramidShader/): An application for visualizing terrain data
 
-## Data
+## Data Sources
 
 - [Census Factfinder](http://factfinder.census.gov/): Download Census demographic data
 - [Data.gov](http://www.data.gov/ "data.gov"): U.S. Government data
@@ -131,6 +133,13 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Free Spatial Data from DIVA-GIS](http://www.diva-gis.org/Data)
 - [WorldClim Version2](http://worldclim.org/version2)
 - [GADM database of Global Administrative Areas](http://gadm.org/)
+- [HindustanTimesLabs/shapefiles](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut)
+- [U.S. GEOGRAPHIC SUMMARY DATA AND BOUNDARY FILES](https://www.nhgis.org/) (National Historic GIS data)
+- [Bridging data for census tracks across time](https://s4.ad.brown.edu/projects/diversity/Researcher/ltdb.htm)
+
+## [Data manipulation](#data-manipulation)
+
+- [Jeezy](https://github.com/harrystevens/jeezy): a JavaScript library for manipulating data. It provides lots of useful functions and has no dependencies, so it won't add a lot of code to your project.
 
 ## Textures / Patterns
 
@@ -219,6 +228,15 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [The Distillery](https://shancarter.github.io/distillery/): Convert files to TopoJSON.
 - [Ogre](https://ogre.adc4gis.com/): Convert to/from GeoJSON/shapefile.
 - ogr2ogr: Great [blog post](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/) on using ogr2ogr to convert to GeoJSON.
+
+## Site generators
+
+- [Gatsby](https://www.gatsbyjs.org/): static site generator (works well with React)
+
+## Hosting
+
+- [Now](https://zeit.co/now): static web host
+- [Surge](http://surge.sh/): static web host
 
 ## Miscellaneous
 
