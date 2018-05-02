@@ -19,6 +19,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Blogs](#blogs)
 - [Conversion tools](#conversion-tools)
 - [Hosting](#hosting)
+- [WYSIWYG mapping](#wysiwyg)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -136,6 +137,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [HindustanTimesLabs/shapefiles](https://github.com/HindustanTimesLabs/shapefiles/tree/master/state_ut)
 - [U.S. GEOGRAPHIC SUMMARY DATA AND BOUNDARY FILES](https://www.nhgis.org/) (National Historic GIS data)
 - [Bridging data for census tracks across time](https://s4.ad.brown.edu/projects/diversity/Researcher/ltdb.htm)
+- [Comprehensive list of 2600+ Open Data Portals Around the World](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
 
 ## [Data manipulation](#data-manipulation)
 
@@ -237,6 +239,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [Now](https://zeit.co/now): static web host
 - [Surge](http://surge.sh/): static web host
+
+## WYSIWYG mapping
+
+- [MapHub](https://maphub.net/): simple interface for making and embedding web maps.
 
 ## Miscellaneous
 
