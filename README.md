@@ -3,24 +3,31 @@
 Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated. 
 
 # Table of Contents
-- [General mapping stuff](#general-mapping-stuff)
-- [Web mapping](#web-mapping)
-- [Colors](#colors)
-- [Typography / Fonts](#typography)
-- [Software](#software)
-- [Data Sources](#data-sources)
-- [Data Manipulation](#data-manipulation)
-- [Icons](#icons)
-- [Textures / Patterns](#textures--patterns)
-- [Images](#images)
-- [Geocoding](#geocoding)
-- [Projections](#projections)
-- [Tutorials / Guides / Forums](#tutorials--guides--forums)
-- [Blogs](#blogs)
-- [Conversion tools](#conversion-tools)
-- [Hosting](#hosting)
-- [WYSIWYG mapping](#wysiwyg)
-- [Miscellaneous](#miscellaneous)
+- [Cartography / mapping / web design resources](#cartography--mapping--web-design-resources)
+- [Table of Contents](#table-of-contents)
+  - [General mapping stuff](#general-mapping-stuff)
+  - [Web mapping](#web-mapping)
+    - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
+    - [Routing](#routing)
+  - [Colors](#colors)
+  - [Typography](#typography)
+  - [Software](#software)
+  - [Data Sources](#data-sources)
+  - [Data manipulation](#data-manipulation)
+  - [Textures / Patterns](#textures--patterns)
+  - [Images](#images)
+  - [Icons](#icons)
+  - [Geocoding](#geocoding)
+  - [Projections](#projections)
+  - [Tutorials / Guides / Forums](#tutorials--guides--forums)
+  - [Blogs](#blogs)
+  - [Conversion tools](#conversion-tools)
+  - [Site generators](#site-generators)
+  - [Hosting](#hosting)
+  - [WYSIWYG mapping](#wysiwyg-mapping)
+  - [SQL](#sql)
+  - [Git](#git)
+  - [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -139,7 +146,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Bridging data for census tracks across time](https://s4.ad.brown.edu/projects/diversity/Researcher/ltdb.htm)
 - [Comprehensive list of 2600+ Open Data Portals Around the World](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
 
-## [Data manipulation](#data-manipulation)
+## Data manipulation
 
 - [Jeezy](https://github.com/harrystevens/jeezy): a JavaScript library for manipulating data. It provides lots of useful functions and has no dependencies, so it won't add a lot of code to your project.
 
@@ -244,6 +251,14 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [MapHub](https://maphub.net/): simple interface for making and embedding web maps.
 
+## SQL
+
+- [Spatial SQL](https://github.com/MicheleTobias/Spatial_SQL) (Workshop by Michele Tobias)
+
+## Git
+
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+
 ## Miscellaneous
 
 - [Everything you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html "Tom MacWright blog post about GeoJSON"): Excellent blog post by Tom MacWright about the GeoJSON format
@@ -256,3 +271,4 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [More resources!](http://duspviz.mit.edu/resources/) From DUSPviz
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
 - [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
+- [Bounding box](https://boundingbox.klokantech.com/): tool for finding the lat/lon coordinates of a bounding box.
