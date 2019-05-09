@@ -9,11 +9,11 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
   - [Web mapping](#web-mapping)
     - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
     - [Routing](#routing)
-  - [Colors](#colors)
+  - [Color](#color)
   - [Typography](#typography)
   - [Software](#software)
   - [Data Sources](#data-sources)
-  - [Data manipulation](#data-manipulation)
+  - [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
   - [Textures / Patterns](#textures--patterns)
   - [Images](#images)
   - [Icons](#icons)
@@ -64,7 +64,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Project OSRM](http://project-osrm.org/)
 - [Transitland](https://transit.land)
 
-## Colors
+## Color
 
 - [ColorBrewer](http://colorbrewer2.org/ "ColorBrewer"): Cartographer's go-to resource for selecting colors for thematic maps, especially choropleth maps. Can filter based on whether color scheme is optimized for printing, colorblindness, etc.
 - [0to255](http://www.0to255.com/ "0to255"): One of my favorite color resources. Pick a color, and 0to255 will show you every shade of that color.
@@ -79,7 +79,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Color Ramp Creator](http://www.pixelfor.me/crc/): Create color schemes of 4, 8, or 16 colors. Fun to play with.
 - [Color Calculator](https://www.sessions.edu/color-calculator/): Choose an initial color, select the type of color scheme you're looking for, and get some ideas.
 - [ColorClaim](http://www.vanschneider.com/colors/): A color picking site by Tobias van Schneider to help with picking color schemes. "All I do is collect my favorite color combinations on one big page. Usually these combinations are very subtle, one main and one accent color.";
-- [siimple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
+- [simple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
+- [color supply](https://colorsupplyyy.com/app)
 
 ## Typography
 
@@ -145,10 +146,15 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [U.S. GEOGRAPHIC SUMMARY DATA AND BOUNDARY FILES](https://www.nhgis.org/) (National Historic GIS data)
 - [Bridging data for census tracks across time](https://s4.ad.brown.edu/projects/diversity/Researcher/ltdb.htm)
 - [Comprehensive list of 2600+ Open Data Portals Around the World](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
+- [NextGIS](https://data.nextgis.com)
+- [The United States Wind Turbine Database (USWTDB)](https://eerscmap.usgs.gov/uswtdb/)
+- [HERE Student Sample Data](https://go.engage.here.com/student-sample-data.html)
 
-## Data manipulation
+## Data wrangling, transformation, and manipulation
 
 - [Jeezy](https://github.com/harrystevens/jeezy): a JavaScript library for manipulating data. It provides lots of useful functions and has no dependencies, so it won't add a lot of code to your project.
+- [AddFIPS](https://github.com/fitnr/addfips)
+: AddFIPS is a tool for adding state or county FIPS codes to files that contain just the names of those geographies.
 
 ## Textures / Patterns
 
@@ -170,6 +176,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
 - [Font Awesome](http://fontawesome.io/icons/ "Font Awesome Icons"): Scalable vector icons specifically designed for web use.
 - [Ionicons](http://ionicons.com/ "Ionicons"): Icon font.
+- [Ikonate](https://www.ikonate.com/)
 
 ## Geocoding
 
