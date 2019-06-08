@@ -1,8 +1,9 @@
 # Cartography / mapping / web design resources
 
-Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated. 
+Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated.
 
 # Table of Contents
+
 - [Cartography / mapping / web design resources](#cartography--mapping--web-design-resources)
 - [Table of Contents](#table-of-contents)
   - [General mapping stuff](#general-mapping-stuff)
@@ -81,15 +82,17 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [ColorClaim](http://www.vanschneider.com/colors/): A color picking site by Tobias van Schneider to help with picking color schemes. "All I do is collect my favorite color combinations on one big page. Usually these combinations are very subtle, one main and one accent color.";
 - [simple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
 - [color supply](https://colorsupplyyy.com/app)
+- [A Bivariate Choropleth Palette Generator](https://geoviz.ceoas.oregonstate.edu/storymap/assets/color.html)
 
 ## Typography
 
+- [Fontelico](http://fontello.com/)
 - [DaFont](http://www.dafont.com/es/): Free, downloadable fonts.
 - [FontSquirrel](http://www.fontsquirrel.com/): Free, downloadable fonts.
 - [Google Fonts](http://www.google.com/webfonts): Free fonts that can be used for webpages.
 - [TypeKit](https://typekit.com/fonts "Adobe TypeKit"): Download fonts specifically for using with Adobe's software suite
 - [TypeBrewer](http://www.typebrewer.org/): Looks at different attributes of selecting typography for maps.
-- [8 typography tips](http://inspire.adobe.com/2013/12/1/eight_tips_for_combining_typefaces.html?scid=social_20150220_40757606&amp;adbid=568893177639219200&amp;adbpl=tw&amp;adbpr=23822236 "Typography Tips"): General typography tips from Adobe
+- [8 typography tips](http://inspire.adobe.com/2013/12/1/eight_tips_for_combining_typefaces.html?scid=social_20150220_40757606&adbid=568893177639219200&adbpl=tw&adbpr=23822236 "Typography Tips"): General typography tips from Adobe
 - [Flipping Typical](http://flippingtypical.com/ "Flipping Typical"): Allows you to see and test out all of the fonts installed on your computer by typing in a specific phrase and showing you what it looks like in the various fonts
 - [Top 30 free open-source web fonts](https://www.typewolf.com/open-source-web-fonts): Great collection of free fonts for download/web use
 
@@ -111,7 +114,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [EarthWorks](https://earthworks.stanford.edu/ "EarthWorks"): Compilation of free GIS data from various universities; run by Stanford Libraries
 - [Free GIS Data](http://freegisdata.rtwilson.com/#home "Free GIS Data from Robin Wilson"): A list of over 300 FREE data sources from around the world! Woo hoo!
 - [GADM](http://gadm.org/ "Global Administrative Areas): GADM is a spatial database of the location of the world's administrative areas (or administrative boundaries"). Includes countries as well as lower level administrative boundaries.
-- [GIS Data Repositories](https://docs.google.com/spreadsheet/ccc?key=0AuApi46szKw4dDhVM1dZNmpld3dIQWdRS2NnRkZDQWc&amp;hl=en_US#gid=47 "GIS Data Repositories"): Google Doc compilation of free, downloadable datasets that may be useful in humanitarian response (and many other scenarios). Compiled by Karen Payne of the University of Georgia's Information Technologies Outreach services.
+- [GIS Data Repositories](https://docs.google.com/spreadsheet/ccc?key=0AuApi46szKw4dDhVM1dZNmpld3dIQWdRS2NnRkZDQWc&hl=en_US#gid=47 "GIS Data Repositories"): Google Doc compilation of free, downloadable datasets that may be useful in humanitarian response (and many other scenarios). Compiled by Karen Payne of the University of Georgia's Information Technologies Outreach services.
 - [Libra](http://libra.developmentseed.org/ "Libra: Development Seed"): A browser for open Landsat 8 imagery.
 - [Natural Earth](http://www.naturalearthdata.com/ "Natural Earth Data"): Public domain datasets available for the world. Includes political and physical features at various scales. You can easily get Natural Earth datasets as GeoJSONs from [geojson.xyz](http://geojson.xyz).
 - [OpenStreetMap Data Extracts](http://download.geofabrik.de/ "OpenStreetMap Data Extracts"): Download the latest data from OpenStreetMap, by continent/country.
@@ -149,18 +152,23 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [NextGIS](https://data.nextgis.com)
 - [The United States Wind Turbine Database (USWTDB)](https://eerscmap.usgs.gov/uswtdb/)
 - [HERE Student Sample Data](https://go.engage.here.com/student-sample-data.html)
+- [Our World In Data](https://ourworldindata.org)
+- [Public APIs](https://github.com/toddmotto/public-apis)
+- [Open Data Network](https://www.opendatanetwork.com/)
+- [Discovery API](https://socratadiscovery.docs.apiary.io/#)
+- [Public APIs](https://github.com/toddmotto/public-apis) (A collective list of free APIs for use in software and web development.)
 
 ## Data wrangling, transformation, and manipulation
 
 - [Jeezy](https://github.com/harrystevens/jeezy): a JavaScript library for manipulating data. It provides lots of useful functions and has no dependencies, so it won't add a lot of code to your project.
 - [AddFIPS](https://github.com/fitnr/addfips)
-: AddFIPS is a tool for adding state or county FIPS codes to files that contain just the names of those geographies.
+  : AddFIPS is a tool for adding state or county FIPS codes to files that contain just the names of those geographies.
 
 ## Textures / Patterns
 
 - [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns")
 - [Lost & Taken](http://lostandtaken.com/ "Lost & Taken")
-- [55 seamless, subtle grunge patterns](https://creativemarket.com/liammckay/258119-55-Seamless-Subtle-Grunge-Patterns?u=liammckay&amp;utm_source=Link&amp;utm_medium=CM+Social+Share&amp;utm_campaign=Product+Social+Share&amp;utm_content=55+Seamless+Subtle+Grunge+Patterns+~+Patterns+on+Creative+Market)
+- [55 seamless, subtle grunge patterns](https://creativemarket.com/liammckay/258119-55-Seamless-Subtle-Grunge-Patterns?u=liammckay&utm_source=Link&utm_medium=CM+Social+Share&utm_campaign=Product+Social+Share&utm_content=55+Seamless+Subtle+Grunge+Patterns+~+Patterns+on+Creative+Market)
 - [Geopattern](http://btmills.github.io/geopattern/)
 - [Pattern Fills](http://iros.github.io/patternfills/)
 - [Hero Patterns (repeatable SVG backgrounds)](http://www.heropatterns.com/)
@@ -268,6 +276,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Miscellaneous
 
+- [Convert ArcGIS JSON to GeoJSON](https://arcgisjson.togeojson.com/)
 - [Everything you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html "Tom MacWright blog post about GeoJSON"): Excellent blog post by Tom MacWright about the GeoJSON format
 - [Awesome GeoJSON](https://github.com/tmcw/awesome-geojson): List of useful GeoJSON utilities
 - [Project Linework](http://www.projectlinework.org/ "Project Linework"): Library of free, public-domain sets of vector linework for cartographic use
