@@ -4,31 +4,31 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 # Table of Contents
 
-- [Cartography / mapping / web design resources](#cartography--mapping--web-design-resources)
-- [Table of Contents](#table-of-contents)
-  - [General mapping stuff](#general-mapping-stuff)
-  - [Web mapping](#web-mapping)
-    - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
-    - [Routing](#routing)
-  - [Color](#color)
-  - [Typography](#typography)
-  - [Software](#software)
-  - [Data Sources](#data-sources)
-  - [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
-  - [Textures / Patterns](#textures--patterns)
-  - [Images](#images)
-  - [Icons](#icons)
-  - [Geocoding](#geocoding)
-  - [Projections](#projections)
-  - [Tutorials / Guides / Forums](#tutorials--guides--forums)
-  - [Blogs](#blogs)
-  - [Conversion tools](#conversion-tools)
-  - [Site generators](#site-generators)
-  - [Hosting](#hosting)
-  - [WYSIWYG mapping](#wysiwyg-mapping)
-  - [SQL](#sql)
-  - [Git](#git)
-  - [Miscellaneous](#miscellaneous)
+- [Cartography / mapping / web design resources](#Cartography--mapping--web-design-resources)
+- [Table of Contents](#Table-of-Contents)
+  - [General mapping stuff](#General-mapping-stuff)
+  - [Web mapping](#Web-mapping)
+    - [Basemaps and Vector Tiles](#Basemaps-and-Vector-Tiles)
+    - [Routing](#Routing)
+  - [Color](#Color)
+  - [Typography](#Typography)
+  - [Software](#Software)
+  - [Data Sources](#Data-Sources)
+  - [Data wrangling, transformation, and manipulation](#Data-wrangling-transformation-and-manipulation)
+  - [Textures / Patterns](#Textures--Patterns)
+  - [Images](#Images)
+  - [Icons](#Icons)
+  - [Geocoding](#Geocoding)
+  - [Projections](#Projections)
+  - [Tutorials / Guides / Forums](#Tutorials--Guides--Forums)
+  - [Blogs](#Blogs)
+  - [Conversion tools](#Conversion-tools)
+  - [Site generators](#Site-generators)
+  - [Hosting](#Hosting)
+  - [WYSIWYG mapping](#WYSIWYG-mapping)
+  - [SQL](#SQL)
+  - [Git](#Git)
+  - [Miscellaneous](#Miscellaneous)
 
 ---
 
@@ -67,6 +67,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Color
 
+- [chroma.js](https://vis4.net/chromajs/)
+- [Chroma.js Color Palette Helper](https://gka.github.io/palettes)
 - [ColorBrewer](http://colorbrewer2.org/ "ColorBrewer"): Cartographer's go-to resource for selecting colors for thematic maps, especially choropleth maps. Can filter based on whether color scheme is optimized for printing, colorblindness, etc.
 - [0to255](http://www.0to255.com/ "0to255"): One of my favorite color resources. Pick a color, and 0to255 will show you every shade of that color.
 - [Adobe Color](https://color.adobe.com/ "Adobe Color"): Create your own color scheme, up to 5 colors. Explore others' color schemes.
@@ -108,6 +110,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Data Sources
 
+- [Mapbox Traffic Data](https://docs.mapbox.com/traffic-data/overview/)
+- [FEMA to Release a Flood of Insurance Data](https://www.nrdc.org/experts/anna-weber/fema-release-flood-insurance-data)
+- [OSMaxx](https://osmaxx.hsr.ch/) (Get the OpenStreetMap data you want in the file format you need)
+- [SOI Tax Stats - Migration Data](https://www.irs.gov/statistics/soi-tax-stats-migration-data)
 - [Census Factfinder](http://factfinder.census.gov/): Download Census demographic data
 - [Data.gov](http://www.data.gov/ "data.gov"): U.S. Government data
 - [Diva-GIS](http://www.diva-gis.org/gdata "DIVA GIS data"): Basic datasets for many countries around the world. Administrative boundaries datasets may be more detailed than Natural Earth.
@@ -157,6 +163,16 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Open Data Network](https://www.opendatanetwork.com/)
 - [Discovery API](https://socratadiscovery.docs.apiary.io/#)
 - [Public APIs](https://github.com/toddmotto/public-apis) (A collective list of free APIs for use in software and web development.)
+- - [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+- [CARTO's LOCATING GEOSPATIAL AND MAPPABLE DATA](https://carto.com/docs/tips-and-tricks/mappable-data/)
+- [Inside AirBNB](http://insideairbnb.com/get-the-data.html)
+- [Awesome Datascience data sets](https://github.com/justmarkham/awesome-datascience#data-sets)
+- [US City Open Data Census](http://us-city.census.okfn.org/)
+- [College Scorecard Data](https://collegescorecard.ed.gov/data/)
+- [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com/)
+- [Hydroshare](https://www.hydroshare.org/)
+- [European Data Portal](https://www.europeandataportal.eu/nl/)
+- [Programmable Web Search APIs](https://www.programmableweb.com/apis/directory)
 
 ## Data wrangling, transformation, and manipulation
 
