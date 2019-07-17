@@ -13,6 +13,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
   - [Color](#Color)
   - [Typography](#Typography)
   - [Software](#Software)
+  - [Databases](#Databases)
   - [Data Sources](#Data-Sources)
   - [Data wrangling, transformation, and manipulation](#Data-wrangling-transformation-and-manipulation)
   - [Textures / Patterns](#Textures--Patterns)
@@ -108,8 +109,13 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
 - [Pyramid Shader](http://www.terraincartography.com/PyramidShader/): An application for visualizing terrain data
 
+## Databases
+
+- [Why should you care about PostGIS? — A gentle introduction to spatial databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
+
 ## Data Sources
 
+- [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard): Share, archive, and get credit for your data. Find and cite data across all research fields
 - [Mapbox Traffic Data](https://docs.mapbox.com/traffic-data/overview/)
 - [FEMA to Release a Flood of Insurance Data](https://www.nrdc.org/experts/anna-weber/fema-release-flood-insurance-data)
 - [OSMaxx](https://osmaxx.hsr.ch/) (Get the OpenStreetMap data you want in the file format you need)
