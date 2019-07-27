@@ -1,35 +1,35 @@
-# Cartography / mapping / web design resources
+# Web cartography, GIS, and mapping design resources
 
 Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated.
 
 # Table of Contents
 
-- [Cartography / mapping / web design resources](#Cartography--mapping--web-design-resources)
-- [Table of Contents](#Table-of-Contents)
-  - [General mapping stuff](#General-mapping-stuff)
-  - [Web mapping](#Web-mapping)
-    - [Basemaps and Vector Tiles](#Basemaps-and-Vector-Tiles)
-    - [Routing](#Routing)
-  - [Color](#Color)
-  - [Typography](#Typography)
-  - [Software](#Software)
-  - [Databases](#Databases)
-  - [Data Sources](#Data-Sources)
-  - [Data wrangling, transformation, and manipulation](#Data-wrangling-transformation-and-manipulation)
-  - [Textures / Patterns](#Textures--Patterns)
-  - [Images](#Images)
-  - [Icons](#Icons)
-  - [Geocoding](#Geocoding)
-  - [Projections](#Projections)
-  - [Tutorials / Guides / Forums](#Tutorials--Guides--Forums)
-  - [Blogs](#Blogs)
-  - [Conversion tools](#Conversion-tools)
-  - [Site generators](#Site-generators)
-  - [Hosting](#Hosting)
-  - [WYSIWYG mapping](#WYSIWYG-mapping)
-  - [SQL](#SQL)
-  - [Git](#Git)
-  - [Miscellaneous](#Miscellaneous)
+- [Web cartography, GIS, and mapping design resources](#web-cartography-gis-and-mapping-design-resources)
+- [Table of Contents](#table-of-contents)
+  - [General mapping stuff](#general-mapping-stuff)
+  - [Web mapping](#web-mapping)
+    - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
+    - [Routing](#routing)
+  - [Color](#color)
+  - [Typography](#typography)
+  - [Software](#software)
+  - [Databases](#databases)
+  - [Data Sources](#data-sources)
+  - [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
+  - [Textures / Patterns](#textures--patterns)
+  - [Images](#images)
+  - [Icons](#icons)
+  - [Geocoding](#geocoding)
+  - [Projections](#projections)
+  - [Tutorials / Guides / Forums](#tutorials--guides--forums)
+  - [Blogs](#blogs)
+  - [Conversion tools](#conversion-tools)
+  - [Site generators](#site-generators)
+  - [Hosting](#hosting)
+  - [WYSIWYG mapping](#wysiwyg-mapping)
+  - [SQL](#sql)
+  - [Git](#git)
+  - [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -115,6 +115,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Data Sources
 
+- [US National Historical GIS](https://www.nhgis.org/)
 - [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard): Share, archive, and get credit for your data. Find and cite data across all research fields
 - [Mapbox Traffic Data](https://docs.mapbox.com/traffic-data/overview/)
 - [FEMA to Release a Flood of Insurance Data](https://www.nrdc.org/experts/anna-weber/fema-release-flood-insurance-data)
