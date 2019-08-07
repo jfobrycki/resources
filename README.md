@@ -1,39 +1,37 @@
-# Web cartography, GIS, and mapping design resources
+# Web cartography, GIS, and mapping design resources <!-- omit in toc -->
 
 Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated.
 
-# Table of Contents
+# Table of Contents <!-- omit in toc -->
 
-- [Web cartography, GIS, and mapping design resources](#web-cartography-gis-and-mapping-design-resources)
-- [Table of Contents](#table-of-contents)
-  - [General mapping stuff](#general-mapping-stuff)
-  - [Web mapping](#web-mapping)
-    - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
-    - [Routing](#routing)
-  - [Color](#color)
-  - [Typography](#typography)
-  - [Software](#software)
-  - [Databases](#databases)
-  - [Data Sources](#data-sources)
-  - [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
-  - [Textures / Patterns](#textures--patterns)
-  - [Images](#images)
-  - [Icons](#icons)
-  - [Geocoding](#geocoding)
-  - [Projections](#projections)
-  - [Tutorials / Guides / Forums](#tutorials--guides--forums)
-  - [Blogs](#blogs)
-  - [Conversion tools](#conversion-tools)
-  - [Site generators](#site-generators)
-  - [Hosting](#hosting)
-  - [WYSIWYG mapping](#wysiwyg-mapping)
-  - [SQL](#sql)
-  - [Git](#git)
-  - [Miscellaneous](#miscellaneous)
+- [General mapping](#general-mapping)
+- [Web mapping](#web-mapping)
+- [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
+- [Routing](#routing)
+- [Color](#color)
+- [Typography](#typography)
+- [Software](#software)
+- [Databases](#databases)
+- [Data Sources](#data-sources)
+- [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
+- [Textures / Patterns](#textures--patterns)
+- [Images](#images)
+- [Icons](#icons)
+- [Geocoding](#geocoding)
+- [Projections](#projections)
+- [Tutorials / Guides / Forums](#tutorials--guides--forums)
+- [Blogs](#blogs)
+- [Conversion tools](#conversion-tools)
+- [Site generators](#site-generators)
+- [Hosting](#hosting)
+- [WYSIWYG mapping](#wysiwyg-mapping)
+- [SQL](#sql)
+- [Git](#git)
+- [Miscellaneous](#miscellaneous)
 
 ---
 
-## General mapping stuff
+## General mapping
 
 - [Cartography Guide](http://www.axismaps.com/guide/): Axis Maps' amazing thematic cartography guide
 - [OpenStreetMap](http://www.openstreetmap.org/ "OpenStreetMap"): Editable, open map of the world.
@@ -53,14 +51,15 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [awesome-spatial](https://github.com/RoboDonut/awesome-spatial): Links to various (awesome) GitHub repos that have some sort of spatial/geo/web mapping use
 - [Leaflet providers](http://leaflet-extras.github.io/leaflet-providers/preview/): Previews free map tiles that you can use on your Leaflet map, with instructions on how to include it in your code.
 
-### Basemaps and Vector Tiles
+## Basemaps and Vector Tiles
 
 - [Mapbox](https://www.mapbox.com/maps/)
 - [OpenMapTiles](https://openmaptiles.org/)
 - [Thunderforest](https://thunderforest.com/docs/vector-maps-api/)
 
-### Routing
+## Routing
 
+- [GeoJSON Path Finder: Serverless, offline routing in the browser](http://www.liedman.net/geojson-path-finder/)
 - [GraphHopper](https://www.graphhopper.com/)
 - [Mapbox Directions API](https://www.mapbox.com/navigation/)
 - [Project OSRM](http://project-osrm.org/)
@@ -284,6 +283,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [Now](https://zeit.co/now): static web host
 - [Surge](http://surge.sh/): static web host
+- [Map hosting on Amazon S3](https://www.maptiler.com/how-to/hosting-on-amazon-s3/)
 
 ## WYSIWYG mapping
 
