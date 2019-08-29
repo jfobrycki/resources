@@ -114,7 +114,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Data Sources
 
-- [US National Historical GIS](https://www.nhgis.org/)
+- [Public Data Sources](https://github.com/justmarkham/DAT5/blob/master/other/public_data.md): compiled by @justmarkham for DAT5
+- [US National Historical GIS](https://www.nhgis.org/): DOWNLOAD U.S. CENSUS DATA TABLES & MAPPING FILES
 - [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard): Share, archive, and get credit for your data. Find and cite data across all research fields
 - [Mapbox Traffic Data](https://docs.mapbox.com/traffic-data/overview/)
 - [FEMA to Release a Flood of Insurance Data](https://www.nrdc.org/experts/anna-weber/fema-release-flood-insurance-data)
