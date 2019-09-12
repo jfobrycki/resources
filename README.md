@@ -27,6 +27,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [WYSIWYG mapping](#wysiwyg-mapping)
 - [SQL](#sql)
 - [Git](#git)
+- [Raster](#raster)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -114,12 +115,14 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Data Sources
 
+- [Global Change Data Lab](https://global-change-data-lab.org/): on-profit research organization in the education sector.
+- [Our World in Data](https://ourworldindata.org/): Research and data to make progress against the world’s largest problems
 - [Public Data Sources](https://github.com/justmarkham/DAT5/blob/master/other/public_data.md): compiled by @justmarkham for DAT5
 - [US National Historical GIS](https://www.nhgis.org/): DOWNLOAD U.S. CENSUS DATA TABLES & MAPPING FILES
 - [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard): Share, archive, and get credit for your data. Find and cite data across all research fields
 - [Mapbox Traffic Data](https://docs.mapbox.com/traffic-data/overview/)
 - [FEMA to Release a Flood of Insurance Data](https://www.nrdc.org/experts/anna-weber/fema-release-flood-insurance-data)
-- [OSMaxx](https://osmaxx.hsr.ch/) (Get the OpenStreetMap data you want in the file format you need)
+- [OSMaxx](https://osmaxx.hsr.ch/): Get the OpenStreetMap data you want in the file format you need
 - [SOI Tax Stats - Migration Data](https://www.irs.gov/statistics/soi-tax-stats-migration-data)
 - [Census Factfinder](http://factfinder.census.gov/): Download Census demographic data
 - [Data.gov](http://www.data.gov/ "data.gov"): U.S. Government data
@@ -202,6 +205,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Icons
 
+- [Streamline 3.0 Icons](https://streamlineicons.com/free/)
 - [Hero Icons](http://www.heroicons.com/)
 - [Nounproject](http://thenounproject.com/4/): Creative Commons license icons. Can either pay to use them without attribution, or give attribution to the creator.
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
@@ -225,6 +229,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Projections
 
+- [Choosing the Right Map Projection](https://source.opennews.org/articles/choosing-right-map-projection/): Michael Corey’s guide to smashing the earth for fun and profit
 - [Projection Wizard](http://projectionwizard.org/ "Projection Wizard"): Helps you select an appropriate projection for your map, depending on the area that you are mapping.
 - [Projection overlays](http://sandbox.azavea.com/projection-overlays/ "Azavea: Projection Overlays"): Shows different areas of the world in different projections to demonstrate the importance of selecting an appropriate projection
 - [ArcGIS list of supported map projections](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//003r00000017000000 "ArcGIS list of supported map projections")
@@ -297,6 +302,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 ## Git
 
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+
+## Raster
+
+- [GeoTiff.js](https://geotiffjs.github.io/): Library to parse TIFF files for visualization or analysis, usable in both the browser and node.js applications.
 
 ## Miscellaneous
 
