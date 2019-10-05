@@ -112,9 +112,12 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 ## Databases
 
 - [Why should you care about PostGIS? — A gentle introduction to spatial databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
+- [DBeaver](https://github.com/dbeaver/dbeaver): Free multi-platform database tool for developers, SQL programmers, database administrators and analysts
+- [qri: A new tool for data science](https://qri.io/desktop/):qri (“query”) is versioned, scriptable, exportable, collaborative datasets
 
 ## Data Sources
 
+- [Urban Institute Data Catalog](https://datacatalog.urban.org/search/type/dataset): a place to discover, learn about, and download open data provided by Urban Institute researchers and data scientists.
 - [Global Change Data Lab](https://global-change-data-lab.org/): on-profit research organization in the education sector.
 - [Our World in Data](https://ourworldindata.org/): Research and data to make progress against the world’s largest problems
 - [Public Data Sources](https://github.com/justmarkham/DAT5/blob/master/other/public_data.md): compiled by @justmarkham for DAT5
