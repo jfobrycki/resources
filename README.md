@@ -7,6 +7,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [General mapping](#general-mapping)
 - [Web mapping](#web-mapping)
 - [Basemaps and Vector Tiles](#basemaps-and-vector-tiles)
+- [Mapping frameworks and templates](#mapping-frameworks-and-templates)
 - [Routing](#routing)
 - [Color](#color)
 - [Typography](#typography)
@@ -28,7 +29,9 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [SQL](#sql)
 - [Git](#git)
 - [Raster](#raster)
+- [UI/UX](#uiux)
 - [Miscellaneous](#miscellaneous)
+- [Tutorials](#tutorials)
 
 ---
 
@@ -57,6 +60,11 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Mapbox](https://www.mapbox.com/maps/)
 - [OpenMapTiles](https://openmaptiles.org/)
 - [Thunderforest](https://thunderforest.com/docs/vector-maps-api/)
+
+## Mapping frameworks and templates
+
+- [Storymap.js](https://github.com/jakobzhao/storymap): a javascript library for storytelling with web maps, maintained by Cartography and Geovisualization Group at Oregon State University.
+- [Storytelling](https://github.com/mapbox/storytelling): template designed by Mapbox to accelerate building out a "scrollytelling" map story using Mapbox styles and GL JS.
 
 ## Routing
 
@@ -310,6 +318,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [GeoTiff.js](https://geotiffjs.github.io/): Library to parse TIFF files for visualization or analysis, usable in both the browser and node.js applications.
 
+## UI/UX
+
+- [MAP UI Patterns](https://www.mapuipatterns.com/)
+
 ## Miscellaneous
 
 - [Convert ArcGIS JSON to GeoJSON](https://arcgisjson.togeojson.com/)
@@ -324,3 +336,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
 - [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
 - [Bounding box](https://boundingbox.klokantech.com/): tool for finding the lat/lon coordinates of a bounding box.
+
+## Tutorials
+
+- [Geospatial Analysis
+  Create interactive maps, and discover patterns in geospatial data](https://www.kaggle.com/learn/geospatial-analysis)
