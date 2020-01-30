@@ -15,6 +15,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Databases](#databases)
 - [Data Sources](#data-sources)
 - [Data wrangling, transformation, and manipulation](#data-wrangling-transformation-and-manipulation)
+- [Data scraping](#data-scraping)
 - [Textures / Patterns](#textures--patterns)
 - [Images](#images)
 - [Icons](#icons)
@@ -200,6 +201,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Jeezy](https://github.com/harrystevens/jeezy): a JavaScript library for manipulating data. It provides lots of useful functions and has no dependencies, so it won't add a lot of code to your project.
 - [AddFIPS](https://github.com/fitnr/addfips)
   : AddFIPS is a tool for adding state or county FIPS codes to files that contain just the names of those geographies.
+
+## Data scraping
+
+- [All the Places](https://globaleclipse.com/): A project to extract GeoJSON from the web focusing on websites that have 'store locator' pages.
 
 ## Textures / Patterns
 
