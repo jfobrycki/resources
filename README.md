@@ -89,7 +89,6 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [D3 Curvy](http://www.macwright.org/d3-curvy/): Design your own color scheme for choropleth maps based on ColorBrewer.
 - [ColorHexa](http://www.colorhexa.com/): Enter in a color value and get pretty much any information you would ever want about the color, including shades, tints, and tones of that color, as well as suggested color schemes that include that color. Also includes a color gradient generator, where you can type in the values of two colors and it will generate a gradient between those colors.
 - [PaletteFX](http://palettefx.com/): Create a color scheme from an image that you upload.
-- [Color Ramp Creator](http://www.pixelfor.me/crc/): Create color schemes of 4, 8, or 16 colors. Fun to play with.
 - [Color Calculator](https://www.sessions.edu/color-calculator/): Choose an initial color, select the type of color scheme you're looking for, and get some ideas.
 - [ColorClaim](http://www.vanschneider.com/colors/): A color picking site by Tobias van Schneider to help with picking color schemes. "All I do is collect my favorite color combinations on one big page. Usually these combinations are very subtle, one main and one accent color.";
 - [simple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
